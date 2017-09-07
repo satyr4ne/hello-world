@@ -1,2 +1,3 @@
 # hello-world
 Just learning the lay of the land here.
+A journey of a thousand miles, as they say...
